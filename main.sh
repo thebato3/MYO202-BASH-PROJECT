@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Batuhan Atmaca
+# Nebi Batuhan Atmaca
 # 2420171022
 # https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hL8oZ9G
 # https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=ax1hrL0PzV
-# TechCareer Certificate ID: f884d8c5-41f9-4424-8f72-c0a8c0496dc8
+# https://credsverse.com/credentials/f884d8c5-41f9-4424-8f72-c0a8c0496dc8
 
 LOGFILE="report.log"
 
